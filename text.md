@@ -21,7 +21,4 @@
 - rating - оценка аниме  
 - votes - сколько человек оценило это аниме  
 
-Cсылка на сайт, в котором находится датасет: <[def]>
-
-
-[def]: ttps://www.kaggle.com/datasets/alancmathew/anime-datase
+Cсылка на сайт, в котором находится датасет: <ttps://www.kaggle.com/datasets/alancmathew/anime-datase>
